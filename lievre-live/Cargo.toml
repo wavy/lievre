@@ -1,9 +1,9 @@
 [package]
-name = "lievre"
+name = "lievre-live"
 version = "0.0.3"
 authors = ["Aram Peres <aram.peres@wavy.fm>"]
 edition = "2018"
-description = "AMQP 0.9.1 server implementation."
+description = "In-memory AMQP 0.9.1 server."
 homepage = "https://github.com/WavyLabs/lievre"
 repository = "https://github.com/WavyLabs/lievre"
 license = "MIT"

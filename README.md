@@ -17,4 +17,4 @@ Lievre is broken up in 3 crates:
 
 ## License
 
-This project is licensed under MIT. It is developed by [Wavy Labs](https://github.com/wavymedia/).
+This project is licensed under MIT. It is developed by [Wavy Labs](https://github.com/WavyLabs/).

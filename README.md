@@ -1,7 +1,8 @@
 # Lievre Project
 
-Lievre is an experimental implementation of AMQP 0.9.1 with RabbitMQ extensions. Its primary use-case is for
-building integration tests for Rust projects using RabbitMQ. It can also be run standalone,
+Lievre is an experimental server implementation of AMQP 0.9.1 with RabbitMQ extensions in Rust.
+
+Its primary use-case is for building integration tests for Rust projects using RabbitMQ. It can also be run standalone,
 acting as a low-resource replacement of the RabbitMQ server.
 
 ## Architecture

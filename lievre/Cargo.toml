@@ -1,6 +1,6 @@
 [package]
 name = "lievre"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Aram Peres <aram.peres@wavy.fm>"]
 edition = "2018"
 description = "In-memory AMQP/RabbitMQ testing framework"
